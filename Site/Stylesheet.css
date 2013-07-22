@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+      background: #364CB5;
+	  font-family: Arial, Helvetica, sans-serif;
+	  color: EBD6E4;
+     }
+	div.textframe {
+	 position: absolute;
+	 width: 650px;
+	 height: 500px;
+	 left: 350px;
+	 top: 100px;
+	 font-family: Arial, Helvetica, sans-serif;
+	 color: #FF9933;
+	 background-color: #364CB5;
+	 }
+	#menuholder {
+	 color: #FF9933;
+	 height: 300px;
+	 width: 100px;
+	 position: absolute;
+	 top: 100px;
+	 left: 20px;
+	 background-color:#364CB5;
+	 text-align: left;
+	 font-weight: bold;
+	 font-family: Arial;
+	 position: fixed;
+	 }
+	.crnt {
+     position:absolute;
+     font-size: 100%;
+     color: gray;
+     font-family: arial, verdana, helvetica;
+     top: 0px;
+     text-align: left
+     }
+	.menu {
+	 position: absolute;
+	 font-size: 100%;
+	 color: #FF9933;
+	 font-family: Arial, verdana, helvetica;
+	 top: 0px;
+	 text-align: left;
+	 }
+	 a:link {
+	 color: #FF9933;
+	 text-decoration: none;
+     }
+    a:visited {
+	 color: #FF9933;
+	 text-decoration: none;
+     }
+    a:hover {
+	 color: #FF9933;
+	 text-decoration: underline;
+     }
+    a:active {
+	 color: #FF9933;
+	 text-decoration: none;
+     }
+	#hme {
+	 top: 0px;
+	 }
+	#abt {
+	 top: 35px;
+	 }
+	#gal {
+	 top: 70px;
+	 }
+	#cnt {
+	 top: 105px;
+	 }
+ 
